@@ -4,7 +4,7 @@
     <img 
       src="./Screenshot.png" 
       alt="Neon Pomodoro Timer" 
-      style="max-width:90%; height:auto; border-radius:20%; box-shadow:0 8px 24px rgba(0,0,0,0.4);"
+      style="max-width:90%; height:auto; border-radius:30%; box-shadow:0 8px 24px rgba(0,0,0,0.4);"
     />
   </a>
 </div>
