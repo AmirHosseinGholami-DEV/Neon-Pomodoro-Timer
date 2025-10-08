@@ -1,18 +1,12 @@
-<div align="center" style="margin-bottom: 25px;">
-  <a href="https://amirhosseingholami-dev.github.io/Neon-Pomodoro-Timer/" 
-     target="_blank" 
-     style="text-decoration: none; color: #00bfff; font-size: 2.2em; font-weight: 800; text-shadow: 0 0 10px #00bfff, 0 0 20px #00bfff;">
-    Neon Pomodoro Timer
-  </a>
-</div>
-
+<!-- README.md -->
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://amirhosseingholami-dev.github.io/Neon-Pomodoro-Timer/" target="_blank">
+  <a href="https://amirhosseingholami-dev.github.io/Neon-Pomodoro-Timer/" target="_blank" style="text-decoration: none; color: inherit;">
     <img 
       src="./Screenshot.png" 
       alt="Neon Pomodoro Timer" 
-      style="max-width:90%; height:auto; border-radius:20%; box-shadow:0 0 30px rgba(0,191,255,0.6);"
+      style="max-width:90%; height:auto; border-radius:20%; box-shadow:0 8px 24px rgba(0,0,0,0.4);"
     />
+    <h3>Neon Pomodoro Timer</h3>
   </a>
 </div>
 
