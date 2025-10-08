@@ -9,7 +9,11 @@
   </a>
 </div>
 
-<h3 align="center"># [Neon-Pomodoro-Timer](https://amirhosseingholami-dev.github.io/Neon-Pomodoro-Timer/)</h3>
+<h3 align="center">
+  <a href="https://amirhosseingholami-dev.github.io/Neon-Pomodoro-Timer/" target="_blank" style="text-decoration: none; color: inherit;">
+    Neon Pomodoro Timer
+  </a>
+</h3>
 
 <p align="center">
   A sleek, responsive Pomodoro timer with neon glow effects and glassmorphism UI.  
